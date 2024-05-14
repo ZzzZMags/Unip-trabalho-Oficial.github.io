@@ -1,0 +1,25 @@
+
+.cabecalho{
+    width: 100%;
+}
+
+.cabecalho__imagem{
+    height: 15rem;
+    margin-left: 1em;
+}
+
+.nav-link{
+    font-size: 3rem;
+    margin-left: 7rem;
+}
+
+.carrossel__imagem{
+    height: 4,5rem;
+    width: 62,5rem;
+}
+
+.cabecalho__link:hover{
+    color: yellow;
+}
+
+
