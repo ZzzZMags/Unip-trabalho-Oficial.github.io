@@ -2,8 +2,7 @@
 @import url('cabecalho.css');
 @import url('carrossel.css');
 @import url('principal.css');
-@import url('principal__pix.css');
-
+@import url('card.css');
 
 *{
     margin: 0;
